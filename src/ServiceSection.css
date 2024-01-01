@@ -1,0 +1,21 @@
+/* src/components/ServiceSection.css */
+.service-section {
+    margin-top: 20px;
+  }
+  
+  .service-cards {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .service-card {
+    flex: 1;
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .service-card h3 {
+    margin-bottom: 10px;
+  }
+  
